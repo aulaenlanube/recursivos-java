@@ -1,5 +1,5 @@
 # Ejercicios recursivos en JAVA
-A continuación se muestran los enunciados de los ejercicios resueltos de recursividad en JAVA
+Aquí os dejo una serie de ejercicios de JAVA para practicar la recursión. Es recomendable intentar hacer primero el ejercicio sin mirar la solución
 - Crea un método que obtenga la suma de los números naturales desde 1 hasta N. Se debe pasar como parámetro el número N
 - Crea un método que imprima los dígitos desde 1 hasta N. Se debe pasar como parámetro el número N
 - Crea un método que imprima los dígitos desde N hasta 1. Se debe pasar como parámetro el número N
